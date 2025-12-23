@@ -1,0 +1,40 @@
+.registration{
+    width: 250px;
+    padding: 10px 30px 30px 30px;
+    text-align: center;
+    margin: 120px auto;
+   
+}
+.form{
+     background-color: lightgray;
+     border-radius: 15px;
+     padding: 20px;
+    box-shadow: 5px 5px 10px black;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 3px;
+}
+button{
+    margin-top: 15px;
+    padding: 4px 7px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    transform: scale(1.1);
+    background-color: black;
+    color: white;
+}
+.Registereduser{
+    
+    margin: 5px auto;
+    justify-content: center;
+   
+}
+#list{
+    margin-top: 5px;
+}
